@@ -1,0 +1,4 @@
+date,owner,summary
+2026-08-11,pm-observability,PFR-1042 customer ask for autonomous database patching window controls - blocker for regulated customer
+2026-08-10,pm-network,PFR-1050 DNS resolution gap across regions - customer request
+2026-08-09,pm-ops,PFR-1061 capacity concern in Azure region with no clear ask yet

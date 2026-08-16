@@ -1,0 +1,6 @@
+# generated output
+digest.md
+# python
+__pycache__/
+*.pyc
+.venv/

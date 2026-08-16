@@ -1,0 +1,7 @@
+date,author,text
+2026-08-14,ana.p,Customer ask from Acme - they need better observability dashboards for Oracle DB@AWS before go-live. Feature request logged.
+2026-08-14,rob.k,Partner says networking latency between VCN and their app tier is a blocker for the pilot.
+2026-08-13,mia.l,Not sure this matters but a customer mentioned monitoring feels thin
+2026-08-13,ana.p,lunch order for the offsite is due friday
+2026-08-12,dev.s,Escalation - DR failover test failed for a Tier-1 customer and RTO was missed
+2026-08-12,rob.k,someone frustrated about billing again with no details
